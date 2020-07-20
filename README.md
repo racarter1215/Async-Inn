@@ -22,7 +22,7 @@
 
 
 ### Lab 11 ERD
-![App Image 1](../assets/Lab11ERD.png)
+![App Image 1](./assets/Lab11ERD.png)
 
 #### Change Log
 
